@@ -1,0 +1,35 @@
+[
+  {
+    "city": "Paris",
+    "image": "/Images copy/paris.jpg",
+    "imageAltText": "Paris - France",
+    "thumbnail": "https://bulma.io/images/placeholders/96x96.png",
+    "thumbnailAltText": "Placeholder Image",
+    "name": "France - Paris",
+    "date": "March. 2019",
+    "description": "Non, je ne regrette rien - Edith Piaf",
+    "link": "Read more"
+  },
+  {
+    "city": "New York",
+    "image": "/Images copy/newYork.jpg",
+    "imageAltText": "New York - USA",
+    "thumbnail": "https://bulma.io/images/placeholders/96x96.png",
+    "thumbnailAltText": "Placeholder Image",
+    "name": " USA - New York",
+    "date": " Oct. 2020",
+    "description": "Start spreading the news I'm leaving today I want to be a part of it New York, New York - Frank Sinatra",
+    "link": "Read more"
+  },
+  {
+    "city": "Dubai",
+    "image": "/Images copy/dubai.jpg",
+    "imageAltText": " Dubai",
+    "thumbnail": "https://bulma.io/images/placeholders/96x96.png",
+    "thumbnailAltText": "Placeholder Image",
+    "name": "United Arab Emirates - Dubai",
+    "date": " Feb. 2022",
+    "description": "get rich or die trying",
+    "link": "Read more"
+  }
+]
