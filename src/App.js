@@ -1,6 +1,7 @@
 import logo from "./logo.svg";
 import "./App.css";
 import Map from "./components/Map";
+import BlogCard from "./components/BlogCard";
 
 function App() {
   return (
@@ -49,12 +50,7 @@ function App() {
           <div className="container has-text-centered">
             <div className="columns is-vcentered">
               <div className="column is-5">
-                <figure className="image is-4by3">
-                  <img
-                    src="https://picsum.photos/800/600/?random"
-                    alt="Description"
-                  />
-                </figure>
+                <BlogCard />
               </div>
               <div className="column is-6 is-offset-1">
                 <Map />
